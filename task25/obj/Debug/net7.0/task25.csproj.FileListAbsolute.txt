@@ -1,0 +1,15 @@
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/bin/Debug/net7.0/task25
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/bin/Debug/net7.0/task25.deps.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/bin/Debug/net7.0/task25.runtimeconfig.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/bin/Debug/net7.0/task25.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/bin/Debug/net7.0/task25.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/obj/Debug/net7.0/task25.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/obj/Debug/net7.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/obj/Debug/net7.0/task25.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/obj/Debug/net7.0/task25.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/obj/Debug/net7.0/task25.csproj.CoreCompileInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/obj/Debug/net7.0/task25.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/obj/Debug/net7.0/refint/task25.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/obj/Debug/net7.0/task25.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/obj/Debug/net7.0/task25.genruntimeconfig.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem4/Sem4hw/task25/obj/Debug/net7.0/ref/task25.dll
